@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:week_3_1123150004/core/routes/app_router.dart';
+import 'package:week_3_1123150004/injection.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(buildApp());
 }
 
 class MyApp extends StatelessWidget {
