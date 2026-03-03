@@ -62,6 +62,6 @@ flutter run
 ### Preview Aplikasi
 
 <p align="center">
-  <img src="" width="300"/>
-  <img src="" width="300"/>
+  <img src="https://github.com/user-attachments/assets/13148619-3c1e-4375-80ab-07ec337e7edc" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c9bed19d-3ce3-4997-b2a6-c8a98ea6cccb" width="300"/>
 </p>
