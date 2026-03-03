@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="week_3_1123150004"
+        android:label="Menu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
